@@ -18,4 +18,4 @@ The Paytm Website Clone project aims to replicate the main page of the popular d
 
 ## Usage
 
-Just Click on the Button 
+Just Click on the Button [![Paytm Home](https://img.shields.io/badge/-Paytm%20Home%20Page-blueviolet)]([https://mjnvsai.github.io/Codegnan_MERN/Paytm/index.html](https://mjnvsai.github.io/Paytm_HomePageLanding/))
